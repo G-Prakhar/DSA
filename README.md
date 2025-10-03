@@ -54,7 +54,7 @@ cd DSA/Arrays
 
 ## 📚 Topics Covered
 
-- [Arrays & Hashing](DSA/Arrays_and_Hashing/)
+- [Arrays & Hashing](Arrays_and_Hashing/)
 - [Two Pointers](Python/Two_Pointers/)
 - [Sliding Window](Python/Sliding_Window/)
 - [Stack](Python/Stack/)
