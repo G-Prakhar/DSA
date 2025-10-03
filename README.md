@@ -56,6 +56,7 @@ cd DSA/Arrays
 
 - [Arrays & Hashing](Arrays_and_Hashing/)
   - [Contains Duplicate](Arrays_and_Hashing/ContainsDuplicate.py)
+  - [Two Sum](Arrays_and_Hashing/TwoSum.py)
 - [Two Pointers](Two_Pointers/)
 - [Sliding Window](Sliding_Window/)
 - [Stack](Stack/)
